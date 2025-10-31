@@ -1,0 +1,21 @@
+In Git there are the concepts like :
+VCS-
+   1)CVCS
+   2)DVCS
+Git Command : 1)git init
+              2)git add .
+              3)git commit -m""
+              4)git status
+              5)git log / git log --oneline
+git merge :
+          1) fast forward merge
+          2) three way merge : we will get auto conflict
+git rebase :
+          1)standard rebase
+          2)Interactive rebase
+git cherry-pick
+git reflog
+git reset
+
+          
+          
